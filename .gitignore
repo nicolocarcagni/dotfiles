@@ -1,0 +1,7 @@
+*.dirs
+*.locale
+*.list
+audacious/
+gtk-3.0/
+pulse/
+gh/
